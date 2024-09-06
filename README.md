@@ -1,2 +1,2 @@
 # solutions_c_workshop
-C language challenges 
+C language challenge
