@@ -59,7 +59,7 @@ void Ajouter(){
      scanf("%s",&titre[Nombre_livres]) ;
      //==========Auteur========================
      printf("Donner l'auteur : ");
-     //fflush(stdin);
+     fflush(stdin);
      scanf("%s",&auteur[Nombre_livres]);
      //==============Prix==========================
      printf("Donner le prix : ");
